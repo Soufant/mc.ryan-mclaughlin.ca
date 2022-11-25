@@ -6,8 +6,7 @@
 ## Client Modifications
 Please Note That:
  - No modifications are required to join the server, but some are required for full functionality.
- - Minecraft Bedrock players are unfortunately unable to use any client modifications due to how Microsoft has developed this version of the game.
-
+ 
 ### Required For Server Features
  - A Mod Loader For Minecraft Version **1.19+**
    - <details>
