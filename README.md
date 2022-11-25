@@ -1,3 +1,4 @@
+# This Page Is Not Complete Check Back For Updates Frequently
 # mc.Ryan-McLaughlin.ca Client and Server Modifications
  - Click arrows next to links for more information like features and required mods.
  - Hold Ctrl While Clicking Links, or Click The Scroll Wheel On Links To Open Them In A New Tab.
@@ -129,12 +130,12 @@ Please Note That:
    </details>
  - <details>
    <summary><a href="https://modrinth.com/mod/wthit">What The Hell Is That?</a></summary>
-   <strong>REQUIRES BAD PACKETS</strong> <br>
-   <details>
-   <summary><a href="https://modrinth.com/mod/badpackets">Bad Packets</a></summary>
-     Packet Translation Layer
-   </details>
+     <strong>REQUIRES BAD PACKETS</strong> <br>
      Displays What You're Looking At
+     <details>
+     <summary><a href="https://modrinth.com/mod/badpackets">Bad Packets</a></summary>
+       Packet Translation Layer
+     </details>
    </details>
  - <details>
    <summary><a href="https://modrinth.com/mod/appleskin">AppleSkin</a></summary>
